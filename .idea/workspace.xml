@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eee52bd2-e5b8-470f-bf97-632a4b3ba625" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/chat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/find.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/friend.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/friends.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/more.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/nav-bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/settings.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/status-bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/avatar13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/avatar2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/blue-snow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/people1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/people2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/people3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/people4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/chat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/find.html" beforeDir="false" afterPath="$PROJECT_DIR$/find.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/friends.html" beforeDir="false" afterPath="$PROJECT_DIR$/friends.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more.html" beforeDir="false" afterPath="$PROJECT_DIR$/more.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/settings.html" afterDir="false" />
-    </list>
+    <list default="true" id="eee52bd2-e5b8-470f-bf97-632a4b3ba625" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VNImdZFIydT1esCKBXdcMYHbGp" />
@@ -98,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577087285349</updated>
       <workItem from="1577087286716" duration="39630000" />
-      <workItem from="1579526143811" duration="13062000" />
+      <workItem from="1579526143811" duration="13316000" />
     </task>
     <servers />
   </component>
