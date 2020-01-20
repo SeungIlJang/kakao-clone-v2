@@ -2,9 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eee52bd2-e5b8-470f-bf97-632a4b3ba625" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/find.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/friend.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/friends.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/more.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/nav-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/settings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/status-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/avatar13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/avatar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blue-snow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/people1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/people2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/people3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/people4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/chat.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/find.html" beforeDir="false" afterPath="$PROJECT_DIR$/find.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/friends.html" beforeDir="false" afterPath="$PROJECT_DIR$/friends.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -21,6 +41,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -34,6 +55,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,6 +68,9 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v10.16.3/lib/node_modules/prettier" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
@@ -71,7 +97,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577087285349</updated>
-      <workItem from="1577087286716" duration="15401000" />
+      <workItem from="1577087286716" duration="39630000" />
+      <workItem from="1579526143811" duration="13062000" />
     </task>
     <servers />
   </component>
@@ -83,7 +110,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

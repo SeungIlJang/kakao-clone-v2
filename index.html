@@ -13,9 +13,10 @@
       integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
       crossorigin="anonymous"
     />
-    <title>Chat | Kakao Clone</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>Chats | Kakao Clone</title>
   </head>
-  <body>
+  <body class="index-body">
     <div class="status-bar">
       <div class="status-bar__column">
         <span class="status-bar__clock">13:54</span>
@@ -30,7 +31,7 @@
     </div>
     <header class="header">
       <div class="header__header-column">
-        <h1 class="header_title">Chats</h1>
+        <h1 class="header__title">Chats</h1>
       </div>
       <div class="header__header-column">
         <span class="header__icon">
@@ -45,20 +46,92 @@
       </div>
     </header>
     <main class="chats">
-      <ul class="chats_list">
+      <ul class="chats__list">
         <li class="chats__chat chat">
           <a href="chat.html">
-            <div class="chat__column">
-              <img class="chat__avatar g-avatar" src="images/avatar.png" />
-              <div class="chat__content">
-                <span class="chat__username">
-                  Lynn
+            <div class="chats__chat friend friend--lg">
+              <div class="friend__column">
+                <img src="images/people4.png" class="m-avatar friend__avatar" />
+                <div class="friend__content">
+                  <span class="friend__name">
+                    Lynn
+                  </span>
+                  <span class="friend__bottom-text">
+                    Going home!
+                  </span>
+                </div>
+              </div>
+              <div class="friend__column">
+                <span class="chat__timestamp">
+                  March 8
                 </span>
-                <span class="chat__preview">Going home</span>
               </div>
             </div>
-            <div class="chat__column">
-              <span class="chat__timestamp">Yesterday</span>
+          </a>
+        </li>
+        <li class="chats__chat chat">
+          <a href="chat.html">
+            <div class="chats__chat friend friend--lg">
+              <div class="friend__column">
+                <img src="images/people3.png" class="m-avatar friend__avatar" />
+                <div class="friend__content">
+                  <span class="friend__name">
+                    Lynn
+                  </span>
+                  <span class="friend__bottom-text">
+                    Going home!
+                  </span>
+                </div>
+              </div>
+              <div class="friend__column">
+                <span class="chat__timestamp">
+                  March 8
+                </span>
+              </div>
+            </div>
+          </a>
+        </li>
+        <li class="chats__chat chat">
+          <a href="chat.html">
+            <div class="chats__chat friend friend--lg">
+              <div class="friend__column">
+                <img src="images/people2.png" class="m-avatar friend__avatar" />
+                <div class="friend__content">
+                  <span class="friend__name">
+                    Lynn
+                  </span>
+                  <span class="friend__bottom-text">
+                    Going home!
+                  </span>
+                </div>
+              </div>
+              <div class="friend__column">
+                <span class="chat__timestamp">
+                  March 8
+                </span>
+              </div>
+            </div>
+          </a>
+        </li>
+        <li class="chats__chat chat">
+          <a href="chat.html">
+            <div class="chats__chat friend friend--lg">
+              <div class="friend__column">
+                <img src="images/people1.png" class="m-avatar friend__avatar" />
+                <div class="friend__content">
+                  <span class="friend__name">
+                    Lynn
+                  </span>
+                  <span class="friend__bottom-text">
+                    Going home!
+                  </span>
+                </div>
+              </div>
+              <div class="friend__column">
+                <span class="chat__timestamp">
+                  March 8
+                </span>
+              </div>
             </div>
           </a>
         </li>
@@ -67,12 +140,13 @@
     <nav class="nav">
       <ul class="nav__list">
         <li class="nav__list-item">
-          <a href="friends.html" class="nav-list-link">
+          <a href="friends.html" class="nav__list-link">
             <i class="far fa-user"></i>
           </a>
         </li>
         <li class="nav__list-item">
-          <a href="index.html" class="nav-list-link">
+          <a href="index.html" class="nav__list-link">
+            <div class="nav__badge">8</div>
             <i class="fas fa-comment"></i>
           </a>
         </li>
@@ -88,5 +162,8 @@
         </li>
       </ul>
     </nav>
+    <div class="bigScreen">
+      <span class="bigScreen__text">Please make your screen small! 😱</span>
+    </div>
   </body>
 </html>
